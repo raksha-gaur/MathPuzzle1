@@ -1,0 +1,61 @@
+body{
+    background-color:#ecf0f3;
+    margin: 3%;
+}
+.input_section{
+   padding: 35px;
+    
+}
+.input_section input[type=text]{
+    margin: 25px 0;
+    padding: 12px 20px;
+    width: 100px;
+    box-sizing: border-box;
+    border: 1.5px solid gray;
+    border-radius: 5px;
+    box-shadow: inset 5px 5px 12px #ffffff,
+    5px 5px 12px rgba(0,0,0,.16);
+}
+.box1{
+    padding: 35px;
+
+}
+.box1 input[type=text]{
+    margin:25px 0;
+    padding: 12px 20px;
+    width: 50px;
+    box-sizing: border-box;
+    border: 1.5px solid gray;
+    border-radius: 5px;
+    box-shadow: inset 5px 5px 12px #ffffff,
+    5px 5px 12px rgba(0,0,0,0.16);
+}
+.output{
+    padding: 35px;
+}
+.output input[type=text]{
+    margin: 25px 0;
+    padding: 12px 20px;
+    width: 100px;
+    box-sizing: border-box;
+    border:1.5px solid gray;
+    border-radius: 100%;
+    box-shadow: inset 5px 5px 12px #ffffff,
+    5px 5px 12px rgba(0,0,0,.16);
+}
+  #col_2 input[type=text]{
+    margin-left: 10px;
+    margin-right: 175px;
+}
+#col_4 input[type=text]{
+    margin-left: 10px;
+    margin-right: 175px;
+}
+#col_5 input[type=text]{
+    margin-right: 125px;
+    margin-top: 5px;
+}
+input{
+    color: black;
+    font-family:cursive;
+}
